@@ -227,7 +227,7 @@ body {
     text-align: center;
     font-size: 10px; }
   .sk-spinner-wave div {
-    background-color: #00ffef;
+    background-color: #8D00FF;
     height: 100%;
     width: 6px;
     margin: 0 1px;
@@ -280,7 +280,7 @@ body {
     height: 32px;
     position: relative; }
   .sk-spinner-wandering-cubes .sk-cube1, .sk-spinner-wandering-cubes .sk-cube2 {
-    background-color: #00ffef;
+    background-color: #8D00FF;
     width: 10px;
     height: 10px;
     position: absolute;
@@ -346,7 +346,7 @@ body {
     width: 40px;
     height: 40px;
     margin: 0 auto;
-    background-color: #00ffef;
+    background-color: #8D00FF;
     border-radius: 100%;
     -webkit-animation: sk-pulseScaleOut 1s infinite ease-in-out;
             animation: sk-pulseScaleOut 1s infinite ease-in-out; }
@@ -394,7 +394,7 @@ body {
     display: inline-block;
     position: absolute;
     top: 0;
-    background-color: #00ffef;
+    background-color: #8D00FF;
     border-radius: 100%;
     -webkit-animation: sk-chasingDotsBounce 2s infinite ease-in-out;
             animation: sk-chasingDotsBounce 2s infinite ease-in-out; }
@@ -449,7 +449,7 @@ body {
   .sk-spinner-three-bounce div {
     width: 18px;
     height: 18px;
-    background-color: #00ffef;
+    background-color: #8D00FF;
     border-radius: 100%;
     display: inline-block;
     -webkit-animation: sk-threeBounceDelay 1.4s infinite ease-in-out;
@@ -518,7 +518,7 @@ body {
     margin: 0 auto;
     width: 20%;
     height: 20%;
-    background-color: #00ffef;
+    background-color: #8D00FF;
     border-radius: 100%;
     -webkit-animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
             animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
@@ -651,7 +651,7 @@ body {
     .sk-spinner-cube-grid .sk-cube {
       width: 33%;
       height: 33%;
-      background: #00ffef;
+      background: #8D00FF;
       float: left;
       -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
               animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out; }
@@ -737,7 +737,7 @@ body {
     margin: 0 auto;
     width: 18%;
     height: 18%;
-    background-color: #00ffef;
+    background-color: #8D00FF;
     border-radius: 100%;
     -webkit-animation: sk-circleFadeDelay 1.2s infinite ease-in-out;
             animation: sk-circleFadeDelay 1.2s infinite ease-in-out;
