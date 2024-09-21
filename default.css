@@ -104,34 +104,19 @@ body {
   }
 
   #download-box{
-	height: 60px;
-	width: 378px;
-	right: 3px; 
-	padding: 10px;
-	bottom: 90px;
-    color: #bfbfbf;
-    font-size: 13px;
-	background-color: #6b6f71;
-	position: absolute;
-	border: 1px solid #232323;
-	text-align: left;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
- }
- 
-  #download-box2{
+    height: 60px;
     width: 378px;
-    right: 3px;
+    right: 3px; 
     padding: 10px;
-    bottom: 180px;
-    color: #bfbfbf;
+    bottom: 90px;
+    color: #ffffff;
     font-size: 13px;
     background-color: #6b6f71;
     position: absolute;
     border: 1px solid #232323;
     text-align: left;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-
+ }
   
   /***************************************
   Spinners
