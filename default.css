@@ -104,10 +104,11 @@ body {
   }
 
   #download-box{
+    height: 60px;
     width: 378px;
     right: 3px;
     padding: 10px;
-    bottom: 180px;
+    bottom: 90px;
     color: #ffffff;
     font-size: 13px;
     background-color: #6b6f71;
